@@ -1,0 +1,9 @@
+capital_disponible = 2000000
+ino = 0.2
+primer_rebote = 0.1
+segundo_rebote = 0.25
+tercer_rebote = 0.5
+avu = 0.1
+primer_rebote_bool = False
+segundo_rebote_bool = False
+tercer_rebote_bool = False
